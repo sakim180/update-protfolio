@@ -1429,8 +1429,14 @@ video {
   .sm\:mt-20 {
     margin-top: 5rem;
   }
+  .sm\:block {
+    display: block;
+  }
   .sm\:flex {
     display: flex;
+  }
+  .sm\:hidden {
+    display: none;
   }
   .sm\:h-16 {
     height: 4rem;
